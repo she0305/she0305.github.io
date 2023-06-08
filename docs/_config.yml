@@ -61,7 +61,7 @@ algolia:
   search_only_api_key    : 9d5014e5bbc77372547bce778dfa5663 # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : true # true (default), false
   files_to_exclude:
-    - _posts/2017-11-28-test-post.md
+    - _posts/2023-06-01-test-post.md
 
 # SEO Related
 google_site_verification : "UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y" # Replace this with your ID, or delete
