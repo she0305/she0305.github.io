@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "Things 4 idk"
 title_separator          : "-"
 subtitle                 : "Things, Thoughts, Thanks, and Talks"
-name                     : &name "Amy Kim"
-description              : &description "For me in the past, present, and future and maybe you too"
+name                     : "Amy Kim"
+description              : "For me in the past, present, and future and maybe you too"
 url                      : "https://she0305.github.io"
 baseurl                  : "/things4idk" # the subpath of your site, e.g. /blog
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,8 +104,8 @@ analytics:
 
 # Site Author
 author:
-  name             : *name #"Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Amy Kim" #"Your Name"
+  avatar           : "/assets/images/me.png"
   bio              : "Memo over memory"
   location         : "Under the rainbow"
   email            :
