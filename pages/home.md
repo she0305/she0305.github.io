@@ -3,8 +3,8 @@ layout: splash
 permalink: /home
 hidden: true
 header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/bigTeaser.jpg
+  overlay_color: "#000"
+  overlay_image: ../assets/images/bigTeaser.jpg
   actions:
     - label: "Meet Amy"
       url: "/about/"
