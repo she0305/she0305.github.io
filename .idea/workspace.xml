@@ -26,7 +26,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/amy/projects/HealthAndVitality",
+    "last_opened_file_path": "/home/amy/projects/she0305.github.io",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -45,8 +45,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/pages" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/posts" />
+      <recent name="$PROJECT_DIR$/pages" />
       <recent name="$PROJECT_DIR$/assets/images" />
       <recent name="$PROJECT_DIR$/docs/pages" />
     </key>
@@ -66,7 +67,7 @@
       <updated>1686263454927</updated>
       <workItem from="1686263456055" duration="1440000" />
       <workItem from="1686264933207" duration="7707000" />
-      <workItem from="1686314359896" duration="6248000" />
+      <workItem from="1686314359896" duration="6563000" />
     </task>
     <servers />
   </component>
