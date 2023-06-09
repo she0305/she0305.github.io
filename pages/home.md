@@ -4,7 +4,7 @@ permalink: /home
 hidden: true
 header:
   overlay_color: "#000"
-  overlay_image: ../../assets/images/bigTeaser.jpg
+  overlay_image: /assets/images/bigTeaser.png
   actions:
     - label: "Meet Amy"
       url: "/about/"
