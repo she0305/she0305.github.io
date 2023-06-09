@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /things4idk
+permalink: /things
 hidden: true
 header:
   overlay_color: "#000"
