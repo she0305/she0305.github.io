@@ -24,7 +24,7 @@ description              : "For me in the past, present, and future and maybe yo
 url                      : "https://she0305.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. /blog
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/teaser.png"
+teaser                   : "/assets/images/teaser-big.png"
 logo                     : "/assets/images/me.png"
 masthead_title           : "Things 4 idk"
 # breadcrumbs            : false # true, false (default)
@@ -155,7 +155,7 @@ footer:
 # Reading Files
 include:
   - .htaccess
-  #- _pages
+  - _pages
   - pages
   - posts
 exclude:
