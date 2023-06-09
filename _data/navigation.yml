@@ -4,9 +4,8 @@ main:
     url: https://she0305.github.io/about
   - title: "Post 📚"
     url: /posts/
-
   - title: "Life 🧸"
-    url: /blog/
+    url: /life/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
