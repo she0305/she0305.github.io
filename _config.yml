@@ -22,7 +22,7 @@ subtitle                 : "Things, Thoughts, Thanks, and Talks"
 name                     : "Amy Kim"
 description              : "For me in the past, present, and future and maybe you too"
 url                      : "https://she0305.github.io"
-baseurl                  : "/things" # the subpath of your site, e.g. /blog
+baseurl                  : "/" # the subpath of your site, e.g. /blog
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/bigTeaser.png"
 logo                     : "/assets/images/me.png"
