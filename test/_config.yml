@@ -282,7 +282,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _recipes
+  # _life
   - scope:
       path: ""
       type: recipes
