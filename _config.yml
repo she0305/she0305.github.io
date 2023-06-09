@@ -290,7 +290,7 @@ defaults:
       author_profile: true
   # _posts
   - scope:
-      path: ""
+      path: "posts"
       type: posts
     values:
       layout: single
@@ -302,7 +302,7 @@ defaults:
 
   # life
   - scope:
-      path: ""
+      path: "life"
       type: life
     values:
       layout: single
