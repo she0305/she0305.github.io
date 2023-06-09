@@ -1,8 +1,8 @@
 ---
 title: "Things 4 Idk"
 layout: splash
-permalink: /things4idk/
-date: 2023-06-07
+permalink: /splash
+date: 2023-06-07  
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
