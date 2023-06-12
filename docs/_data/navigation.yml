@@ -61,7 +61,7 @@ docs:
   - title: Content
     children:
       - title: "Working with Posts"
-        url: /docs/posts/
+        url: /docs/_posts/
       - title: "Working with Pages"
         url: /docs/pages/
       - title: "Working with Collections"

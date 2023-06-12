@@ -21,7 +21,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: _posts
     values:
       layout: single
       author_profile: true

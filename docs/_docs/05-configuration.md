@@ -278,7 +278,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: _posts
     values:
       show_date: true
 ```
@@ -304,7 +304,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: _posts
     values:
       read_time: true
 ```
@@ -355,7 +355,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: _posts
     values:
       comments: true
 ```
@@ -981,7 +981,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: _posts
     values:
       layout: single
       author_profile: true

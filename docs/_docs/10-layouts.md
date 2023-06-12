@@ -351,7 +351,7 @@ layout: home
 Then configure pagination in `_config.yml`.
 
 ```yaml
-paginate: 5 # amount of posts to show
+paginate: 5 # amount of _posts to show
 paginate_path: /page:num/
 ```
 
@@ -585,7 +585,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: _posts
     values:
       author_profile: true
 ```
@@ -706,7 +706,7 @@ docs:
   - title: Content
     children:
       - title: "Working with Posts"
-        url: /docs/posts/
+        url: /docs/_posts/
       - title: "Working with Pages"
         url: /docs/pages/
       - title: "Working with Collections"

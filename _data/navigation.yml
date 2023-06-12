@@ -3,7 +3,7 @@ main:
   - title: "Amy 🐣"
     url: /about/
   - title: "Post 📚"
-    url: /posts/
+    url: /_posts/
   - title: "Life 🧸"
     url: /life/
   # - title: "Sample Collections"
@@ -58,7 +58,7 @@ docs:
   - title: Content
     children:
       - title: "Working with Posts"
-        url: /docs/posts/
+        url: /docs/_posts/
       - title: "Working with Pages"
         url: /docs/pages/
       - title: "Working with Collections"

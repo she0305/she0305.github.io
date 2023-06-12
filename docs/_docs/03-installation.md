@@ -39,7 +39,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: _posts
     values:
       layout: single
       read_time: true

@@ -47,7 +47,7 @@ about: "Is something not working as expected?"
 
 <!--
   Describe the steps you took for this problem to come up. Such as: you installed
-  the theme, customized _config.yml, added your own posts, and started up a 
+  the theme, customized _config.yml, added your own _posts, and started up a 
   Jekyll server locally.
 
   If an error occurred on GitHub Pages when pushing, please test a local version

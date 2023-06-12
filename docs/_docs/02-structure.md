@@ -31,23 +31,23 @@ minimal-mistakes
 ├── _layouts
 |  ├── archive-taxonomy.html   # tag/category archive for Jekyll Archives plugin
 |  ├── archive.html            # archive base
-|  ├── categories.html         # archive listing posts grouped by category
-|  ├── category.html           # archive listing posts grouped by specific category
+|  ├── categories.html         # archive listing _posts grouped by category
+|  ├── category.html           # archive listing _posts grouped by specific category
 |  ├── collection.html         # archive listing documents in a specific collection
 |  ├── compress.html           # compresses HTML in pure Liquid
 |  ├── default.html            # base for all other layouts
 |  ├── home.html               # home page
-|  ├── posts.html              # archive listing posts grouped by year
+|  ├── _posts.html              # archive listing _posts grouped by year
 |  ├── search.html             # search page
 |  ├── single.html             # single document (post/page/etc)
-|  ├── tag.html                # archive listing posts grouped by specific tag
-|  ├── tags.html               # archive listing posts grouped by tags
+|  ├── tag.html                # archive listing _posts grouped by specific tag
+|  ├── tags.html               # archive listing _posts grouped by tags
 |  └── splash.html             # splash page
 ├── _sass                      # SCSS partials
 ├── assets
 |  ├── css
 |  |  └── main.scss            # main stylesheet, loads SCSS partials from _sass
-|  ├── images                  # image assets for posts/pages/collections/etc.
+|  ├── images                  # image assets for _posts/pages/collections/etc.
 |  ├── js
 |  |  ├── plugins              # jQuery plugins
 |  |  ├── vendor               # vendor scripts
@@ -55,6 +55,6 @@ minimal-mistakes
 |  |  └── main.min.js          # optimized and concatenated script file loaded before </body>
 ├── _config.yml                # site configuration
 ├── Gemfile                    # gem file dependencies
-├── index.html                 # paginated home page showing recent posts
+├── index.html                 # paginated home page showing recent _posts
 └── package.json               # NPM build scripts
 ```
