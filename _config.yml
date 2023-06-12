@@ -158,6 +158,7 @@ include:
   #- _pages
   - pages
   - _posts
+  - _life
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
