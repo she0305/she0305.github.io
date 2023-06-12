@@ -58,15 +58,15 @@ docs:
   - title: Content
     children:
       - title: "Working with Posts"
-        url: /docs/_posts/
+        url: /_posts/
       - title: "Working with Pages"
-        url: /docs/pages/
+        url: /pages/
       - title: "Working with Collections"
-        url: /docs/collections/
+        url: /collections/
       - title: "Helpers"
-        url: /docs/helpers/
+        url: /helpers/
       - title: "Utility Classes"
-        url: /docs/utility-classes/
+        url: /utility-classes/
   - title: Extras
     children:
       - title: "Stylesheets"
@@ -76,13 +76,13 @@ docs:
   - title: Meta
     children:
       - title: "History"
-        url: /docs/history/
+        url: /history/
       - title: "Contributing"
-        url: /docs/contributing/
+        url: /contributing/
       - title: "Old 2.2 Docs"
-        url: /docs/docs-2-2/
+        url: /docs-2-2/
       - title: "License"
-        url: /docs/license/
+        url: /license/
       - title: "Terms &amp; Privacy Policy"
         url: /terms/
 
