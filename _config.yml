@@ -290,8 +290,8 @@ defaults:
       author_profile: true
   # _posts
   - scope:
-      path: "_posts"
-      type: _posts
+      path: "posts"
+      type: posts
     values:
       layout: single
       author_profile: true
@@ -302,8 +302,8 @@ defaults:
 
   # _life
   - scope:
-      path: "_life"
-      type: _life
+      path: "life"
+      type: life
     values:
       layout: single
       author_profile: true
