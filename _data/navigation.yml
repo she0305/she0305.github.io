@@ -3,9 +3,9 @@ main:
   - title: "Amy 🐣"
     url: /about/
   - title: "Post 📚"
-    url: /_posts/
+    url: /posts/
   - title: "Life 🧸"
-    url: /_life/
+    url: /life/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
