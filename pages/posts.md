@@ -1,6 +1,7 @@
 ---
-title: "Amy's Posts"
+title: "Today I Learned 💡"
 permalink: /posts/
-layout: categories
+layout: category
+taxonomy: TIL
 author_profile: true
 ---

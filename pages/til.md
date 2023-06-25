@@ -1,7 +1,7 @@
 ---
 title: "Today I Learned"
-permalink: /posts/til/
-layout: category
+permalink: /categories/til/
+layout: splash
 author_profile: true
 taxonomy: TIL
 ---

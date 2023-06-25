@@ -1,5 +1,5 @@
 ---
-title: "What's Going On"
+title: "What's Going On 👀"
 layout: category
 permalink: /categories/
 taxonomy: Diary
