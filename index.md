@@ -14,21 +14,21 @@ feature_row:
   - image_path: /assets/images/smartCat.png
     alt: "Learning of the day"
     title: "Learning of the day"
-    excerpt: "My goal is to explain in the most simple way possible that even a cat could understand."
+    excerpt: "My goal is to explain in the most simple way possible that even a cat could understand 🐱"
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/me.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+  - image_path: /assets/images/betterBean.png
+    alt: "About Amy"
+    title: "About Amy"
+    excerpt: "I am a hooman bean trying to be a better software engineer bean 🌱"
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/me.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
+  - image_path: /assets/images/brainDump.png
+    alt: "Brain Dump"
+    title: "Amy's Diary"
+    excerpt: "This is more of a brain dump of my journey and life. You can take a peek if you want to 🤫"
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
