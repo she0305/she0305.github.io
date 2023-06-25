@@ -159,6 +159,8 @@ include:
   - pages
   - _posts
   - _thoughts
+  - _diary
+  - _challenge
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -253,9 +255,9 @@ whitelist:
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path>/my-awesome-category/index.html ~> path: /
-category_archive:
+life:
   type: liquid
-  path: /categories/
+  path: /life/
 tag_archive:
   type: liquid
   path: /tags/
