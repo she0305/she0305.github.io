@@ -257,7 +257,7 @@ whitelist:
 #  - <base_path>/my-awesome-category/index.html ~> path: /
 life:
   type: liquid
-  path: /life/
+  path: /categories/:name/
 tag_archive:
   type: liquid
   path: /tags/

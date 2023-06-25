@@ -29,7 +29,7 @@ feature_row:
     alt: "Brain Dump"
     title: "Amy's Diary"
     excerpt: "This is more of a brain dump of my journey and life. You can take a peek if you want to 🤫"
-    url: "/life/"
+    url: "/categories/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---

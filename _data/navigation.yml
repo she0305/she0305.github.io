@@ -5,7 +5,7 @@ main:
   - title: "Post 📚"
     url: /posts/
   - title: "Life 🧸"
-    url: /life/
+    url: /categories/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
