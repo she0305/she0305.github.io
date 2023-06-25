@@ -158,7 +158,7 @@ include:
   #- _pages
   - pages
   - _posts
-  - _life
+  - _thoughts
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -281,9 +281,16 @@ compress_html:
 
 # Collections
 collections:
-  life:
+  thoughts:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:life/:path/
+  diary:
+    output: true
+    permalink: /:life/:path/
+  challenge:
+    output: true
+    permalink: /:life/:path/
+
 
 # Defaults
 defaults:
@@ -306,10 +313,28 @@ defaults:
       share: true
       related: true
 
-  # _life
+  # _thoughts
   - scope:
-      path: "life"
-      type: life
+      path: ""
+      type: thoughts
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _diary
+  - scope:
+      path: ""
+      type: diary
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _challenge
+  - scope:
+      path: ""
+      type: challenge
     values:
       layout: single
       author_profile: true

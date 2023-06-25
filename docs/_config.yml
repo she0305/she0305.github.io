@@ -232,7 +232,7 @@ defaults:
       comments: false
       sidebar:
         nav: "docs"
-  # _life
+  # _thoughts
   - scope:
       path: ""
       type: recipes
