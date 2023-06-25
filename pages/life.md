@@ -1,9 +1,6 @@
 ---
-layout: collection
-title: "Life"
-collection: life
+title: "Posts by Year"
 permalink: /life/
-author_profile: false
+layout: posts
+author_profile: true
 ---
-
-Sample document listing for the collection `_recipes`.
