@@ -1,9 +1,6 @@
 ---
-layout: collection
-title: "Recipes"
-collection: recipes
-permalink: /recipes-archive/
-author_profile: false
+title: "Posts by Year"
+permalink: /life/
+layout: posts
+author_profile: true
 ---
-
-This is Life page 
