@@ -10,12 +10,11 @@ header:
       url: "/about/"
 excerpt: >
   If you've stumbled upon this blog, it's my lucky day 🌞<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
 feature_row:
-  - image_path: /assets/images/me.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+  - image_path: /assets/images/smartCat.png
+    alt: "Learning of the day"
+    title: "Learning of the day"
+    excerpt: "My goal is to explain in the most simple way possible that even a cat could understand."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
