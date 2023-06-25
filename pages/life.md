@@ -1,6 +1,6 @@
 ---
 title: "Posts by Category"
-layout: collection
-permalink: /collection/
+layout: categories
+permalink: /categories/
 author_profile: true
 ---
