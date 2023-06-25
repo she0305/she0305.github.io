@@ -285,13 +285,13 @@ compress_html:
 collections:
   thoughts:
     output: true
-    permalink: /:life/:path/
+    permalink: /:collection/:path/
   diary:
     output: true
-    permalink: /:life/:path/
+    permalink: /:collection/:path/
   challenge:
     output: true
-    permalink: /:life/:path/
+    permalink: /:collection/:path/
 
 
 # Defaults
