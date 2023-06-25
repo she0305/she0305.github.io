@@ -322,30 +322,30 @@ defaults:
       layout: single
       author_profile: false
       share: true
-  # _thoughts
-  - scope:
-      path: ""
-      type: thoughts
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _diary
-  - scope:
-      path: ""
-      type: diary
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _challenge
-  - scope:
-      path: ""
-      type: challenge
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+#  # _thoughts
+#  - scope:
+#      path: ""
+#      type: thoughts
+#    values:
+#      layout: single
+#      author_profile: true
+#      share: true
+#      comments: true
+#  # _diary
+#  - scope:
+#      path: ""
+#      type: diary
+#    values:
+#      layout: single
+#      author_profile: true
+#      share: true
+#      comments: true
+#  # _challenge
+#  - scope:
+#      path: ""
+#      type: challenge
+#    values:
+#      layout: single
+#      author_profile: true
+#      share: true
+#      comments: true

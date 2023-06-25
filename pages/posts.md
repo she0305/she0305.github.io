@@ -1,6 +1,6 @@
 ---
-title: "Posts by Year"
+title: "Amy's Posts"
 permalink: /posts/
-layout: posts
-author_profile: truegit pu
+layout: categories
+author_profile: true
 ---
