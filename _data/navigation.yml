@@ -6,6 +6,8 @@ main:
     url: /posts/
   - title: "Life 🧸"
     url: /categories/
+  - title: "Portfolio 🎨"
+    url: /portfolio/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
