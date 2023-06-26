@@ -13,11 +13,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -39,7 +39,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/amy/projects/she0305.github.io/assets/images",
+    "last_opened_file_path": "/home/amy/projects/she0305.github.io",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -84,7 +84,8 @@
       <workItem from="1686264933207" duration="7707000" />
       <workItem from="1686314359896" duration="8517000" />
       <workItem from="1686571824619" duration="5884000" />
-      <workItem from="1687733247423" duration="7807000" />
+      <workItem from="1687733247423" duration="8532000" />
+      <workItem from="1687810968766" duration="768000" />
     </task>
     <servers />
   </component>

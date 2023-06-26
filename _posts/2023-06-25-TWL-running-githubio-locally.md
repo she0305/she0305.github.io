@@ -1,6 +1,7 @@
 ---
 title: "Running Github.io Locally"
 layout: splash
+read_time: true
 header:
   overlay_image: assets/images/githubIo.png
 categories:
