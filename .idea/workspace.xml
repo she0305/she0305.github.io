@@ -13,6 +13,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="d7f7b779-9032-4e25-9e96-6feed3a3a85f" />
+        <option name="url" value="https://github.com/she0305/she0305.github.io.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -26,7 +39,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/amy/projects/she0305.github.io",
+    "last_opened_file_path": "/home/amy/projects/she0305.github.io/assets/images",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -45,10 +58,10 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images" />
       <recent name="$PROJECT_DIR$/pages" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/_thoughts" />
-      <recent name="$PROJECT_DIR$/assets/images" />
       <recent name="$PROJECT_DIR$/docs/_layouts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -71,7 +84,7 @@
       <workItem from="1686264933207" duration="7707000" />
       <workItem from="1686314359896" duration="8517000" />
       <workItem from="1686571824619" duration="5884000" />
-      <workItem from="1687733247423" duration="2697000" />
+      <workItem from="1687733247423" duration="5645000" />
     </task>
     <servers />
   </component>
