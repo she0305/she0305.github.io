@@ -35,7 +35,7 @@ Also, note that you can't use any React hooks in your server components. in the 
 - Better for Data Fetching
 
 ### Client Components
-If you want to use client component, you need to add `use client` to your component. According to the docs, `use client` sits between server-only and client code.
+If you want to use client component, you need to add `use client` to your component. According to the docs, `use client` sits between server-only and client code. So even client component will be rendered on the server, but it will be hydrated on the client. This means that the interactive part of the component will be rendered on the client. 
 
 
 **Client Component (add `use client`)**
