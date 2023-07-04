@@ -113,9 +113,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:amyskim0305@gmail.com"
-    - label: "Website"
+    - label: "GitHub"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://github.com/she0305"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -132,9 +132,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/she0305"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
@@ -290,6 +290,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   challenge:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
     output: true
     permalink: /:collection/:path/
 
