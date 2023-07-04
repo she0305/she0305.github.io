@@ -6,7 +6,7 @@ layouts_gallery:
   - url: /assets/images/me.png
     image_path: /assets/images/me.png
     alt: "splash layout example"
-  - url: /assets/images/mme.png
+  - url: /assets/images/me.png
     image_path: /assets/images/me.png
     alt: "single layout with comments and related posts"
   - url: /assets/images/me.png
