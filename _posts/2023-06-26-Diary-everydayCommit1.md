@@ -4,7 +4,7 @@ layout: splash
 search: false
 categories:
 - Diary
-  header:
+header:
   overlay_image: assets/images/commit.png
   overlay_color: "#1111"
   last_modified_at: 2023-06-26
