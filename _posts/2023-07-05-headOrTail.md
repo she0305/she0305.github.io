@@ -1,14 +1,10 @@
 ---
-
-[//]: # (title: "Tail of a Dragon 🐉 vs. Head of a Snake 🐍")
-
-[//]: # (layout: splash)
-
-[//]: # (search: false)
-
-[//]: # (categories:)
-
-[//]: # (- Diary)
+title: "Tail of a Dragon 🐉 vs. Head of a Snake 🐍"
+layout: splash
+search: false
+hidden: true
+categories:
+- Diary
   header:
   overlay_image: assets/images/dragonSnake.jpeg
   overlay_color: "#1111"
