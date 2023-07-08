@@ -3,7 +3,7 @@ title: "PostgreSQL alone or with Docker?"
 layout: splash
 read_time: true
 header:
-  overlay_image: assets/images/githubIo.png
+  overlay_image: assets/images/DockerPostgres.jpeg
 categories:
 - TIL
 last_modified_at: 2023-07-3
