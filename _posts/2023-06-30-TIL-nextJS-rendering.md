@@ -6,6 +6,7 @@ header:
   overlay_image: assets/images/githubIo.png
 categories:
 - TIL
+last_modified_at: 2023-06-30
 ---
 
 # Next.js Server Components vs. Client Components
