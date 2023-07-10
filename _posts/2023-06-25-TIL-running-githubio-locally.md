@@ -6,7 +6,8 @@ header:
   overlay_image: assets/images/githubIo.png
 categories:
 - TIL
-last_modified_at: 2023-06-25
+last_modified_at: 2023-06-25T09:45:06-05:00 
+show_date: true
 ---
 
 # Debugging Without Local Server Made Me Old 😭
