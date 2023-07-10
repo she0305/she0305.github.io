@@ -9,6 +9,7 @@ header:
   overlay_color: "#1111"
   last_modified_at: 2023-06-26
   last_modified_at: 2023-06-25T09:45:06-05:00
+show_date: true
 ---
 # Everyday Commit 📖
 

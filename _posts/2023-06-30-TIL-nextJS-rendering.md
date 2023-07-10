@@ -7,6 +7,7 @@ header:
 categories:
 - TIL
 last_modified_at: 2023-06-30T09:45:06-05:00
+show_date: true
 ---
 
 # Next.js Server Components vs. Client Components
