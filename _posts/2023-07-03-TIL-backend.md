@@ -6,7 +6,8 @@ header:
   overlay_image: assets/images/DockerPostgres.jpeg
 categories:
 - TIL
-last_modified_at: 2023-07-3
+last_modified_at: 2023-07-3 
+last_modified_at: 2023-07-03T09:45:06-05:00
 ---
 
 # Learning By Doing: Docker or no Docker for PostgreSQL?
