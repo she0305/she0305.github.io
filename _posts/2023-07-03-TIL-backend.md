@@ -10,7 +10,7 @@ last_modified_at: 2023-07-3
 show_date: true
 ---
 
-# Learning By Doing: Docker or no Docker for PostgreSQL?
+# Learning By Doing: Docker or No Docker for PostgreSQL?
 
 I've seen a lot of people using Docker for their PostgreSQL database. So I thought about it for a second whether I should use Docker for my PostgreSQL database or not. Unfortunately, my lazy self decided not to use Docker, as Docker has always been something I've been intimidated by. Long story short, I started with setting my PostgreSQL database up without Docker AND ended up scrapping the whole thing and starting over with Docker.
 
