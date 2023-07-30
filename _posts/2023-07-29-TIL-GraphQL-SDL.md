@@ -8,7 +8,7 @@ categories:
 - TIL
 last_modified_at: 2023-07-29
 show_date: true
-hide: true
+hidden: true
 ---
 
 # Implementing a GraphQL server 

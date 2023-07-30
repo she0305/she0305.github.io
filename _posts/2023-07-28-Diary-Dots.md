@@ -3,7 +3,7 @@ title: "Just Keep Swimming"
 layout: splash
 read_time: true
 header:
-  overlay_image: assets/images/foo-bar-identity.jpg
+  overlay_image: assets/images/doraBanner.png
 categories:
 - Diary
 last_modified_at: 2023-07-28
@@ -24,7 +24,9 @@ The dark side of me is telling me that it's just because I'm not smart enough, b
 
 As once Dora said from Finding Nemo, "When life gets you down, do you wanna know what you've gotta do? Just keep swimming, just keep swimming, just keep swimming, swimming, swimming."
 
-![img.png](/assets/images/dora.png)
+<p align="center">
+  <img src="/assets/images/dora.png">
+</p>
 
 I feel better after humming this song. I'm going to sleep now. Good night.
 
