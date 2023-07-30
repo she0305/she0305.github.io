@@ -3,7 +3,7 @@ title: "Panic Attack Saving CheatSheet for Docker Beginner"
 layout: splash
 read_time: true
 header:
-  overlay_image: assets/images/DockerPostgres.jpeg
+  overlay_image: assets/images/dockerBanner.png
 categories:
 - TIL
 last_modified_at: 2023-07-13
