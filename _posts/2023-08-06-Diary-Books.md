@@ -21,6 +21,5 @@ categories:
 - 개발자 원칙
 - Automate the Boring Stuff with Python
 - Architecting Modern Data Platforms
-- Infrastucture as Code
+- Infrastructure as Code
 - Design It! From Programmer to Software Architect
-- 서
