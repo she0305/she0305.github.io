@@ -6,9 +6,8 @@ header:
 overlay_image: assets/images/DockerPostgres.jpeg
 categories:
 - Diary
-  last_modified_at: 2023-08-06
-  show_date: true
-  hide: true
+last_modified_at: 2023-08-06
+show_date: true
 ---
 
 # Reading List
