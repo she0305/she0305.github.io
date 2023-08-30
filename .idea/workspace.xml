@@ -41,7 +41,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/amykim/Projects/she0305.github.io/_posts",
+    "last_opened_file_path": "/home/amy/projects/she0305.github.io/_posts",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -90,6 +90,7 @@
       <workItem from="1687810968766" duration="768000" />
       <workItem from="1687902990951" duration="1209000" />
       <workItem from="1690514524092" duration="3432000" />
+      <workItem from="1693357434120" duration="321000" />
     </task>
     <servers />
   </component>
