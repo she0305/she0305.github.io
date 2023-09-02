@@ -28,8 +28,10 @@ Virtual networks can be segmented into subnets. Subnets are used to segment the 
 - Apply network security policies (Network Security Groups / Application Security Groups) in groups
 - Manage IP address ranges
 
-![virtual network diagram](../assets/images/vNet.png)
-![nsg.png](../assets/images/nsg.png)
+<p align="center">
+  <img src="../assets/images/vNet.png">
+  <img src="../assets/images/nsg.png">
+</p>
 
 ## Multiple Virtual Networks
 
@@ -37,7 +39,9 @@ Sometimes we need to connect multiple virtual networks together. As a virtual ma
 
 Virtual network peering and virtual network gateways allow you to connect to both your on-premise network and other virtual networks in Azure over the public internet. 
 
-![connecting virtual networks.png](../assets/images/vconnect.png)
+<p align="center">
+  <img src="../assets/images/vconnect.png">
+</p>
 
 ## Load Balancer
 
@@ -50,7 +54,9 @@ scalability of applications. You can have multiple virtual machines behind a loa
 - Supports both inbound and outbound connections
 - Can manage external and internal traffic
 
-![loadbalancer.png](../assets/images/loadbalancer.png)
+<p align="center">
+  <img src="../assets/images/loadbalancer.png">
+</p>
 
 ## Application Gateway
 
@@ -64,8 +70,10 @@ Application Gateway is a service that provides application delivery controller (
 - Provides web application firewall
 - Supports redirection
 
-![gateway.png](../assets/images/gateway.png)
-![gateway2.png](../assets/images/gateway2.png)
+<p align="center">
+  <img src="../assets/images/gateway.png">
+  <img src="../assets/images/gateway2.png">
+</p>
 
 
 ## Content Delivery Network (CDN)
@@ -76,7 +84,8 @@ Content Delivery Network is a service that delivers high-bandwidth content to us
 - Improve performance
 - Reduce latency
 
-![cdn.png](../assets/images/cdn.png)
-
+<p align="center">
+  <img src="../assets/images/cdn.png">
+</p>
 
 _Credit: [Adam Marczak - Azure for Everyone](https://www.youtube.com/watch?v=5NMcM4zJPM4)_ 
