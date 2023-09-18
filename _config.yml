@@ -295,7 +295,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-
+  career:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -322,6 +324,14 @@ defaults:
   - scope:
       path: ""
       type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      share: true
+  - scope:
+      path: ""
+      type: career
     values:
       layout: single
       author_profile: false
