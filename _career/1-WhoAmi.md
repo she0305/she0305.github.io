@@ -23,7 +23,25 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-Placeholder
+A little bit about me...
+
+
+
+<p align="center">
+  <img src="/assets/images/gemanufacturing.png" width="600">
+</p>
+<p align="center">
+  <img src="/assets/images/gemanu2.png" width="600">
+</p>
+
+<p align="center">
+  <img src="/assets/images/rwanda.png" width="600">
+</p>
+<p align="center">
+  <img src="/assets/images/rwanda2.png" width="600">
+</p>
+*P*
+
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
 
