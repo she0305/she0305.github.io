@@ -1,16 +1,16 @@
 ---
 title: "I'm Excited to Share My Growth!"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+excerpt: "Literally from zero to hero."
 header:
   image: /assets/images/sf1.png
   teaser: /assets/images/sf1.png
 sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Test"
-  - title: "iiii"
-    text: "cTestst"
+- title: "Amy Kim"
+  image: /assets/images/amy.jpg
+  image_alt: "logo"
+  text: "Developer💻, Learner📚, and Traveler🛬️"
+- title: "Background"
+  text: "From factory to software engineer"
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg

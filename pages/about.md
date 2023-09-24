@@ -58,8 +58,11 @@ Amy is the ultimate companion for unleashing your potential and achieving outsta
 **v0.3.6** - 2021- Amy starts working as a full-time mechanical engineer at Rolls-Royce<br/>
 **v0.4.0** - 2021 - Amy gets bored after work and decides to learn how to code <br/>
 **v0.4.1** - 2021 - Amy builds an app for her engineering team and reserves 36K <br/>
+**----------------------------- Breaking Change ------------------------------**<br/>
 **v1.0.0** - 2022 - Amy switch her career to software engineering<br/> **Breaking Change** <br/>
-**v1.0.1** - 2023 - Amy adds Vue.js, GraphQL, TypeScript, Tailwind CSS, Jest, Cypress, and PostgreSQL to her tech stack <br/>
+**v1.0.1** - 2022 - Amy adds Vue.js, GraphQL, TypeScript, Tailwind CSS, Jest, Cypress, and PostgreSQL to her tech stack <br/>
+**----------------------------- Breaking Change ------------------------------**<br/>
+**v2.0.0** - 2023 - Amy adds Terraform, Kubernetes, Azure and becomes a devOps engineer  <br/>
 
 
 {% include gallery id="layouts_gallery" caption="Examples" %}
