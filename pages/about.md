@@ -31,18 +31,22 @@ Amy is the ultimate companion for unleashing your potential and achieving outsta
 - [x] Vue.js
 - [x] GraphQL
 - [x] TypeScript
+- [x] Python
+- [x] Node.js
 - [x] Tailwind CSS
 - [x] Jest
 - [x] Cypress
 - [x] PostgreSQL
+- [x] Docker
+- [x] Terraform
+- [x] Azure
+- [x] Kubernetes
 
 
 ## Upcoming Features 💡
 
-- [ ] Next.js
-- [ ] React
-- [ ] Python
-- [ ] Docker
+- [ ] More Kubernetes!
+- [ ] CKA
 
 ## Version History 📖
 **v0.0.0** - Amy was born in a small town in 📍 South Korea <br/>
