@@ -1,6 +1,6 @@
 ---
 title: "Hi, Nice to Meet You!"
-excerpt: "So... Who are you?"
+excerpt: "Hello, I am Amy Kim. I am a software engineer, learner, and traveler. You can find my story here."
 header:
   image: /assets/images/travel.jpg
   teaser: /assets/images/travel.jpg
@@ -112,10 +112,10 @@ In 2021, I joined Rolls-Royce as a graduate development program engineer. I was 
 
 ## Here I am! - with Software Factory 🎉
 
-I'm extremely lucky with the all 7 positions I had so far. I was able to learn and grow from each of them and finally found my passion. I never thought I would be a software engineer, but here I am!
+I'm extremely lucky with the all 7 positions I had so far. I was able to learn and grow from each of them and finally found my passion. I never thought I would be a software engineer, but here I am! Click [here](https://she0305.github.io/career/2-Contribution/) to read more about my contribution with Software Factory.
 
 <p align="center">
-  <img src="/assets/images/sf1.png" width="360">           <span>                        </span><img src="/assets/images/gemanu2.png" width="200">
+  <img src="/assets/images/sf1.png" width="360">
 </p>
 
 
