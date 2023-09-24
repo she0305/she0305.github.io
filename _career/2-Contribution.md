@@ -2,8 +2,8 @@
 title: "I'm Excited to Share My Growth!"
 excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
 header:
-  image: /assets/images/foo-bar-identity.jpg
-  teaser: /assets/images/foo-bar-identity-th.jpg
+  image: /assets/images/sf1.png
+  teaser: /assets/images/sf1.png
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
