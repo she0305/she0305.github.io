@@ -88,6 +88,10 @@ Got selected for the Rolls-Royce International Program! (Unfortunately, the pand
 
 In 2021, I joined Rolls-Royce as a graduate development program engineer. I was assigned to the Engineering Operations Management team for the first rotation.
 
+<p align="center">
+  <img src="/assets/images/gdp.jpg" width="600">
+</p>
+
 -----------------------------  First Rotation (EOM) --------------------------- <br/>
 
 **Role 👩‍🔧:** Project Manager Assistant<br/>
