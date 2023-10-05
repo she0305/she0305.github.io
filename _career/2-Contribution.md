@@ -30,7 +30,18 @@ gallery:
   - url: /assets/images/frontend-setting.gif
     image_path: assets/images/frontend-setting.gif
     alt: "placeholder image 3"
-
+  - url: /assets/images/workflow.gif
+    image_path: assets/images/workflow.gif
+    alt: "placeholder image 3"
+  - url: /assets/images/workflow.png
+    image_path: assets/images/workflow.png
+    alt: "placeholder image 3"
+  - url: /assets/images/terraformNochange.gif
+    image_path: assets/images/terraformNochange.gif
+    alt: "placeholder image 3"
+  - url: /assets/images/terraformChange.gif
+    image_path: assets/images/terraformChange.gif
+    alt: "placeholder image 3"
 ---
 
 I dived into the software world purely with my interest after a short rotation with the Software Factory. As much as I knew that I enjoy coding, I also knew that I had a lot to learn. It was a little intimidating at first, but I was able to learn and grow with the help of my team and the resources that were available to me. Here is the picture of me when I just started learning how to code. I was struggling to debug my code, and it was 2 A.M. 
@@ -98,16 +109,6 @@ With the full support of the Software factory team, I was able to explore differ
 3. Centralized workflow management
 4. Reduced the total time of the workflow by ~20%
 
-**Contribution 5 ✅:** Platform Development — Infrastructure <br/>
-**What Does This Do? 🙋:** Enabling deployment automation and continuous delivery with Kubernetes. <br/>
-**Description 🗒️:**
-1. Learning and adopting Kubernetes suggested by our intern Dennis!
-2. Deploying 3DT (Dynamic Data Deliverable Tracker) with Kubernetes and Sealed Secrets
-3. Automating the (Azure Kubernetes Service) AKS deployment with Terraform
-4. Working with the development team to troubleshoot and resolve issues
-5. Studying for CKA (Certified Kubernetes Administrator) 
-
-
 <p align="center">
   <img src="/assets/images/workflow.gif" width="500">
   <br/>
@@ -116,7 +117,33 @@ With the full support of the Software factory team, I was able to explore differ
   <img src="/assets/images/workflow.png" width="500">
 </p>
 
-{% include gallery caption="Collections" %}
+**Contribution 5 ✅:** Platform Development — Kubernetes <br/>
+**What Does This Do? 🙋:** Enabling deployment automation and continuous delivery with Kubernetes. <br/>
+**Description 🗒️:**
+1. Learning and adopting Kubernetes suggested by our intern Dennis!
+2. Deploying 3DT (Dynamic Data Deliverable Tracker), Pulse (Part and Timeline Tracker for US Defense Programs), Whoami with Kubernetes
+3. Improving security by sealed secrets
+4. Working with the development team to troubleshoot and resolve issues
+5. Studying for CKA (Certified Kubernetes Administrator)
+
+
+**Contribution 6 ✅:** Platform Development — Infrastructure as Code <br/>
+**What Does This Do? 🙋:** Enabling effective management and provisioning of resources with Terraform. <br/>
+**Description 🗒️:**
+1. Automating the (Azure Kubernetes Service) AKS deployment with Terraform
+2. Building the "accidental deletion" protection and record-keeping environment 
+3. Enabling consistent and reusable infrastructure
+4. Reducing the cost of the infrastructure by automating the deletion of the unused resources completely.
+
+<p align="center">
+  <img src="/assets/images/terraformNochange.gif" width="500">
+  <br/>
+  <span>                   </span>
+  <br/>
+  <img src="/assets/images/terraformChange.gif" width="500">
+</p>
+
+{% include gallery caption="You can click to zoom in" %}
 
 ## What's Next? ✨
 
