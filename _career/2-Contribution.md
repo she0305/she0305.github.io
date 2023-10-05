@@ -124,7 +124,7 @@ With the full support of the Software factory team, I was able to explore differ
 2. Deploying 3DT (Dynamic Data Deliverable Tracker), Pulse (Part and Timeline Tracker for US Defense Programs), Whoami with Kubernetes
 3. Improving security by sealed secrets
 4. Working with the development team to troubleshoot and resolve issues
-5. Studying for CKA (Certified Kubernetes Administrator)
+5. Studying for CKA (Certified Kubernetes Administrator) and CKS (Certified Kubernetes Security Specialist) certification
 
 
 **Contribution 6 ✅:** Platform Development — Infrastructure as Code <br/>
