@@ -39,6 +39,6 @@ Here, I ask for your support:
 </p>
 
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include gallery caption="Memories with RR" %}
 
 TestTest
