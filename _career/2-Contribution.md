@@ -56,6 +56,9 @@ With the full support of the Software factory team, I was able to explore differ
 
 <p align="center">
   <img src="/assets/images/api.gif" width="500">
+  <br/>
+  <span>                   </span>
+  <br/>
   <img src="/assets/images/api-mutation.gif" width="500">
 </p>
 
@@ -65,7 +68,13 @@ With the full support of the Software factory team, I was able to explore differ
 
 <p align="center">
   <img src="/assets/images/frontend.gif" width="500">
+  <br/>
+  <span>                   </span>
+  <br/>
   <img src="/assets/images/frontend-actiontable.gif" width="500">
+  <br/>
+  <span>                   </span>
+  <br/>
   <img src="/assets/images/frontend-setting.gif" width="500">
 </p>
 
@@ -101,6 +110,9 @@ With the full support of the Software factory team, I was able to explore differ
 
 <p align="center">
   <img src="/assets/images/workflow.gif" width="500">
+  <br/>
+  <span>                   </span>
+  <br/>
   <img src="/assets/images/workflow.png" width="500">
 </p>
 
