@@ -145,6 +145,19 @@ With the full support of the Software factory team, I was able to explore differ
 
 {% include gallery caption="You can click to zoom in" %}
 
+## Is Amy Qualified for Next Level? 🤔
+
+| **Requirement for GG10**                                                | **Fulfillment**  | **Evidence**                                                                                          |
+|-------------------------------------------------------------------------|------------------|-------------------------------------------------------------------------------------------------------|
+| Playing a key role in a specific field within an engineering discipline | ✅                | Platform Development                                                                                  |
+| Solving problems with evaluative judgment                               | ✅                | Providing guidance to multiple citizen-developing apps                                                |
+| Understanding company business objectives                               | ✅                | Working closely with dev team to meet the stakeholders' needs                                         |
+| Increased in breadth of the projects or technical package               | ✅             | Experience from full-stack development to platform development                                        |
+| Working autonomously across a broader more ambiguous scope of work      | ✅                | Working without "assignments" given by the manager                                                    |
+| Able to exchange complex technical ideas and information                | ✅                | Writing multiple technical documents and being able to work cross-functional and cross-organizational |
+
+
+
 ## What's Next? ✨
 
 Click [here](https://she0305.github.io/career/3-NextSteps/) to see what's next for me!
