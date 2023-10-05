@@ -36,11 +36,11 @@ gallery:
   - url: /assets/images/workflow.png
     image_path: assets/images/workflow.png
     alt: "placeholder image 3"
-  - url: /assets/images/terraformNochange.gif
-    image_path: assets/images/terraformNochange.gif
+  - url: /assets/images/terraformNochange.png
+    image_path: assets/images/terraformNochange.png
     alt: "placeholder image 3"
-  - url: /assets/images/terraformChange.gif
-    image_path: assets/images/terraformChange.gif
+  - url: /assets/images/terraformChange.png
+    image_path: assets/images/terraformChange.png
     alt: "placeholder image 3"
 ---
 
@@ -136,11 +136,11 @@ With the full support of the Software factory team, I was able to explore differ
 4. Reducing the cost of the infrastructure by automating the deletion of the unused resources completely.
 
 <p align="center">
-  <img src="/assets/images/terraformNochange.gif" width="500">
+  <img src="/assets/images/terraformNochange.png" width="500">
   <br/>
   <span>                   </span>
   <br/>
-  <img src="/assets/images/terraformChange.gif" width="500">
+  <img src="/assets/images/terraformChange.png" width="500">
 </p>
 
 {% include gallery caption="You can click to zoom in" %}
