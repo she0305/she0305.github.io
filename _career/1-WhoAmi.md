@@ -8,31 +8,28 @@ sidebar:
   - title: "Amy Kim"
     image: /assets/images/amy.jpg
     image_alt: "logo"
-    text: "Developer💻, Learner📚, and Traveler🛬️"
+    text: "Engineer💻, Learner📚, and Traveler🛬️"
   - title: "Background"
     text: "From factory to software engineer"
-
-gallery:
-
-  - url: /assets/images/rwanda.png
-
-    image_path: assets/images/rwanda.png
-
-    alt: "Rwanda Picture"
-
-  - url: /assets/images/rwanda2.png
-
-    image_path: assets/images/rwanda2.png
-
-    alt: "Rwanda Picture"
-
 ---
+## About Me 🙋‍♀️
+I graduated from Virginia Tech with a degree in Mechanical Engineering. It's been about 2.5 years since I graduated from college, yet I have been in 8 different roles already! 
+
+**School 👩🏻‍🎓 :** Virginia Tech<br/>
+**Major 📚 :** Mechanical Engineering <br/>
+**Scholarship 💪 :** VT Beyond Boundaries Scholarship (3-Year Full Ride), William Potts Dr. Scholarship, 2019-2020, Global Education Office
+Scholarship 2019, Pratt Scholarship 2019, SEC Scholarship 2020-2021 <br/>
+**Project 🇷🇼:** Rwanda Community Water Sanitation Project (Rilima, Rwanda) 2019
+
+<p align="center">
+  <img src="/assets/images/vtgrad.png" width="250"><span>                        </span><img src="/assets/images/rwanda2.png" width="350">
+</p>
 
 ## Start of my career 🏭
 
 I started my career as an industrial engineer on the manufacturing floor with the belief that a “true engineer” should understand what’s happening on the floor. 
 
-**Role 👩‍🔧:** Industrial Engineer Co-Op<br/>
+**Role 👩‍🔧:** 2nd Shift Area Business Leader <br/>
 **Responsibilities 🛠️:** Keeping the production line running smoothly by identifying and solving problems. <br/>
 **Amy's Impact 🔥:** Improved the production line efficiency by 10% by implementing a flag system to indicate the change in the incoming product. <br/> 
 **Take away 🎁:** Ability to work under pressure and visualize the big picture. 
@@ -122,6 +119,3 @@ I'm extremely lucky with the all 7 positions I had so far. I was able to learn a
   <img src="/assets/images/sf1.png" width="360">
 </p>
 
-
-
-{% include gallery caption="A quick break! Pictures from the trip to Rwanada" %}

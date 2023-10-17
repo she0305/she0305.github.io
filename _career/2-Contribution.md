@@ -8,7 +8,7 @@ sidebar:
 - title: "Amy Kim"
   image: /assets/images/amy.jpg
   image_alt: "logo"
-  text: "Developer💻, Learner📚, and Traveler🛬️"
+  text: "Engineer💻, Learner📚, and Traveler🛬️"
 - title: "Background"
   text: "From factory to software engineer"
 gallery:
@@ -42,6 +42,12 @@ gallery:
   - url: /assets/images/terraformChange.png
     image_path: assets/images/terraformChange.png
     alt: "placeholder image 3"
+  - url: /assets/images/argo.gif
+    image_path: assets/images/argo.gif
+    alt: "placeholder image 3"
+  - url: /assets/images/argo2.gif
+    image_path: assets/images/argo2.gif
+    alt: "placeholder image 3"
 ---
 
 I dived into the software world purely with my interest after a short rotation with the Software Factory. As much as I knew that I enjoy coding, I also knew that I had a lot to learn. It was a little intimidating at first, but I was able to learn and grow with the help of my team and the resources that were available to me. Here is the picture of me when I just started learning how to code. I was struggling to debug my code, and it was 2 A.M. 
@@ -61,16 +67,16 @@ With the full support of the Software factory team, I was able to explore differ
 [//]: # ()
 [//]: # (<p align="center">)
 
-[//]: # (  <img src="/assets/images/backendapollo.png" width="500">)
+[//]: # (  <img src="/assets/images/backendapollo.png" width="800">)
 
 [//]: # (</p>)
 
 <p align="center">
-  <img src="/assets/images/api.gif" width="500">
+  <img src="/assets/images/api.gif" width="800">
   <br/>
   <span>                   </span>
   <br/>
-  <img src="/assets/images/api-mutation.gif" width="500">
+  <img src="/assets/images/api-mutation.gif" width="800">
 </p>
 
 **Contribution 2 ✅:** Frontend Development <br/>
@@ -78,15 +84,15 @@ With the full support of the Software factory team, I was able to explore differ
 **Note 🗒️:** 3DT (Dynamic Data Deliverable Tracker), SAF (Safety Assurance Framework), H&V (Health and Vitality), SD (Supply Demand), exVibe, etc..
 
 <p align="center">
-  <img src="/assets/images/frontend.gif" width="500">
+  <img src="/assets/images/frontend.gif" width="800">
   <br/>
   <span>                   </span>
   <br/>
-  <img src="/assets/images/frontend-actiontable.gif" width="500">
+  <img src="/assets/images/frontend-actiontable.gif" width="800">
   <br/>
   <span>                   </span>
   <br/>
-  <img src="/assets/images/frontend-setting.gif" width="500">
+  <img src="/assets/images/frontend-setting.gif" width="800">
 </p>
 
 **Contribution 3 ✅:** Core Support for Citizen Developer Projects <br/>
@@ -94,12 +100,12 @@ With the full support of the Software factory team, I was able to explore differ
 **Note 🗒️:**  H&V (Health and Vitality), Dex (Database for AE), SD (Supply Demend) 
 
 <p align="center">
-  <img src="/assets/images/hv.png" width="500">
+  <img src="/assets/images/hv.png" width="800">
 </p>
 
 ------------------------🔥 Breaking Change 🔥-------------------------
 
-🔥 **Breaking Change** 🔥: With the full stack development experience, I gained a deeper understanding of the software development life cycle. As the Software Factory moves fast, and we started to have more and more projects, we needed to focus on the building infrastructure and platform to support the continuous delivery of the projects. My knowledge and experience in the full stack development with my passion for automation and efficiency led me to the platform development team.
+🔥 **Breaking Change** 🔥: With the full stack development experience, I gained a deeper understanding of the software development life cycle. As the Software Factory moves fast, and we started to have more and more projects, we needed to focus on the building infrastructure and platform to support the continuous delivery of the projects. My knowledge and experience in the full stack development with my passion for automation and efficiency led me to become a platform lead, owning the platform development and infrastructure.
 
 **Contribution 4 ✅:** Platform Development — Workflow <br/>
 **What Does This Do? 🙋:** Aiming to shorten the systems development life cycle and provide continuous delivery with high software quality. <br/>
@@ -110,11 +116,11 @@ With the full support of the Software factory team, I was able to explore differ
 4. Reduced the total time of the workflow by ~20%
 
 <p align="center">
-  <img src="/assets/images/workflow.gif" width="500">
+  <img src="/assets/images/workflow.gif" width="800">
   <br/>
   <span>                   </span>
   <br/>
-  <img src="/assets/images/workflow.png" width="500">
+  <img src="/assets/images/workflow.png" width="800">
 </p>
 
 **Contribution 5 ✅:** Platform Development — Kubernetes <br/>
@@ -126,6 +132,13 @@ With the full support of the Software factory team, I was able to explore differ
 4. Working with the development team to troubleshoot and resolve issues
 5. Studying for CKA (Certified Kubernetes Administrator) and CKS (Certified Kubernetes Security Specialist) certification
 
+<p align="center">
+  <img src="/assets/images/argo.gif" width="800">
+  <br/>
+  <span>                   </span>
+  <br/>
+  <img src="/assets/images/argo2.gif" width="800">
+</p>
 
 **Contribution 6 ✅:** Platform Development — Infrastructure as Code <br/>
 **What Does This Do? 🙋:** Enabling effective management and provisioning of resources with Terraform. <br/>
@@ -136,14 +149,12 @@ With the full support of the Software factory team, I was able to explore differ
 4. Reducing the cost of the infrastructure by automating the deletion of the unused resources completely.
 
 <p align="center">
-  <img src="/assets/images/terraformNochange.png" width="500">
+  <img src="/assets/images/terraformNochange.png" width="800">
   <br/>
   <span>                   </span>
   <br/>
-  <img src="/assets/images/terraformChange.png" width="500">
+  <img src="/assets/images/terraformChange.png" width="800">
 </p>
-
-{% include gallery caption="You can click to zoom in" %}
 
 ## Is Amy Qualified for Next Level? 🤔
 
@@ -157,6 +168,8 @@ With the full support of the Software factory team, I was able to explore differ
 | Able to exchange complex technical ideas and information                | ✅                | Writing multiple technical documents and being able to work cross-functional and cross-organizational |
 
 
+
+{% include gallery caption="You can click to zoom in" %}
 
 ## What's Next? ✨
 

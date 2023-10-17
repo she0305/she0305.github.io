@@ -8,6 +8,7 @@ categories:
 - Diary
 last_modified_at: 2023-09-30
 show_date: true
+hidden: true
 ---
 
 # Just Random Thoughts

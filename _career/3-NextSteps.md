@@ -8,7 +8,7 @@ sidebar:
   - title: "Amy Kim"
     image: /assets/images/amy.jpg
     image_alt: "logo"
-    text: "Developer💻, Learner📚, and Traveler🛬️"
+    text: "Engineer💻, Learner📚, and Traveler🛬️"
 
 gallery:
   - url: /assets/images/rr-memory.jpeg
