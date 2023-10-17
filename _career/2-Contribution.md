@@ -158,6 +158,11 @@ With the full support of the Software factory team, I was able to explore differ
 
 ## Is Amy Qualified for Next Level? 🤔
 
+<p align="center">
+  <img src="/assets/images/bizCard.png" width="800">
+  <br/> 
+</p>
+
 | **Requirement for GG10**                                                | **Fulfillment**  | **Evidence**                                                                                          |
 |-------------------------------------------------------------------------|------------------|-------------------------------------------------------------------------------------------------------|
 | Playing a key role in a specific field within an engineering discipline | ✅                | Platform Development                                                                                  |
