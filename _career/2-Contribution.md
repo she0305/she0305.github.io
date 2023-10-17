@@ -50,7 +50,7 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-I dived into the software world purely with my interest after a short rotation with the Software Factory. As much as I knew that I enjoy coding, I also knew that I had a lot to learn. It was a little intimidating at first, but I was able to learn and grow with the help of my team and the resources that were available to me. Here is the picture of me when I just started learning how to code. I was struggling to debug my code, and it was 2 A.M. 
+I dived into the software world purely with my interest after a short rotation with the Software Factory. As much as I knew that I enjoyed coding, I also knew that I had a lot to learn. It was a little intimidating at first, but I was able to learn and grow with the help of my team and the resources that were available to me. Here is the picture of me when I just started learning how to code. I was struggling to debug my code, and it was 2 A.M. 
 
 <p align="center">
   <img src="/assets/images/amywithpc.jpg" width="360">
@@ -58,7 +58,7 @@ I dived into the software world purely with my interest after a short rotation w
 
 ## Exponential Growth and Contributions 📈 
 
-With the full support of the Software factory team, I was able to explore different areas of development and absorb as much as I can.
+With the full support of the Software factory team, I was able to explore different areas of development and absorb as much as I could.
 
 **Contribution 1 ✅:** Backend Development <br/>
 **What Does This Do? 🙋:** Building APIs is critical for the digital transformation of the company. APIs allow us to connect different systems and provide a way to access data. This way, we can eliminate the need for repeated data entry and provide a single source of truth. <br/>
@@ -67,16 +67,16 @@ With the full support of the Software factory team, I was able to explore differ
 [//]: # ()
 [//]: # (<p align="center">)
 
-[//]: # (  <img src="/assets/images/backendapollo.png" width="800">)
+[//]: # (  <img src="/assets/images/backendapollo.png" width="600">)
 
 [//]: # (</p>)
 
 <p align="center">
-  <img src="/assets/images/api.gif" width="800">
+  <img src="/assets/images/api.gif" width="600">
   <br/>
   <span>                   </span>
   <br/>
-  <img src="/assets/images/api-mutation.gif" width="800">
+  <img src="/assets/images/api-mutation.gif" width="600">
 </p>
 
 **Contribution 2 ✅:** Frontend Development <br/>
@@ -84,28 +84,28 @@ With the full support of the Software factory team, I was able to explore differ
 **Note 🗒️:** 3DT (Dynamic Data Deliverable Tracker), SAF (Safety Assurance Framework), H&V (Health and Vitality), SD (Supply Demand), exVibe, etc..
 
 <p align="center">
-  <img src="/assets/images/frontend.gif" width="800">
+  <img src="/assets/images/frontend.gif" width="600">
   <br/>
   <span>                   </span>
   <br/>
-  <img src="/assets/images/frontend-actiontable.gif" width="800">
+  <img src="/assets/images/frontend-actiontable.gif" width="600">
   <br/>
   <span>                   </span>
   <br/>
-  <img src="/assets/images/frontend-setting.gif" width="800">
+  <img src="/assets/images/frontend-setting.gif" width="600">
 </p>
 
 **Contribution 3 ✅:** Core Support for Citizen Developer Projects <br/>
-**What Does This Do? 🙋:** Enable citizen developers to create their own applications by providing support for the core features. This allows us to empower the business users to create their own applications and automate their daily tasks. <br/>
-**Note 🗒️:**  H&V (Health and Vitality), Dex (Database for AE), SD (Supply Demend) 
+**What Does This Do? 🙋:** Enable citizen developers to create their own applications by providing support for the core features. This allows us to empower business users to create their own applications and automate their daily tasks. <br/>
+**Note 🗒️:**  H&V (Health and Vitality), Dex (Database for AE), SD (Supply Demand) 
 
 <p align="center">
-  <img src="/assets/images/hv.png" width="800">
+  <img src="/assets/images/hv.png" width="600">
 </p>
 
 ------------------------🔥 Breaking Change 🔥-------------------------
 
-🔥 **Breaking Change** 🔥: With the full stack development experience, I gained a deeper understanding of the software development life cycle. As the Software Factory moves fast, and we started to have more and more projects, we needed to focus on the building infrastructure and platform to support the continuous delivery of the projects. My knowledge and experience in the full stack development with my passion for automation and efficiency led me to become a platform lead, owning the platform development and infrastructure.
+🔥 **Breaking Change** 🔥: With the full stack development experience, I gained a deeper understanding of the software development life cycle. As the Software Factory moved fast, and we started to have more and more projects, we needed to focus on the building infrastructure and platforms to support the continuous delivery of the projects. My knowledge and experience in full stack development with my passion for automation and efficiency led me to become a platform lead, owning the platform development and infrastructure.
 
 **Contribution 4 ✅:** Platform Development — Workflow <br/>
 **What Does This Do? 🙋:** Aiming to shorten the systems development life cycle and provide continuous delivery with high software quality. <br/>
@@ -116,11 +116,11 @@ With the full support of the Software factory team, I was able to explore differ
 4. Reduced the total time of the workflow by ~20%
 
 <p align="center">
-  <img src="/assets/images/workflow.gif" width="800">
+  <img src="/assets/images/workflow.gif" width="600">
   <br/>
   <span>                   </span>
   <br/>
-  <img src="/assets/images/workflow.png" width="800">
+  <img src="/assets/images/workflow.png" width="600">
 </p>
 
 **Contribution 5 ✅:** Platform Development — Kubernetes <br/>
@@ -133,11 +133,11 @@ With the full support of the Software factory team, I was able to explore differ
 5. Studying for CKA (Certified Kubernetes Administrator) and CKS (Certified Kubernetes Security Specialist) certification
 
 <p align="center">
-  <img src="/assets/images/argo.gif" width="800">
+  <img src="/assets/images/argo.gif" width="600">
   <br/>
   <span>                   </span>
   <br/>
-  <img src="/assets/images/argo2.gif" width="800">
+  <img src="/assets/images/argo2.gif" width="600">
 </p>
 
 **Contribution 6 ✅:** Platform Development — Infrastructure as Code <br/>
@@ -146,20 +146,20 @@ With the full support of the Software factory team, I was able to explore differ
 1. Automating the (Azure Kubernetes Service) AKS deployment with Terraform
 2. Building the "accidental deletion" protection and record-keeping environment 
 3. Enabling consistent and reusable infrastructure
-4. Reducing the cost of the infrastructure by automating the deletion of the unused resources completely.
+4. Reducing the cost of the infrastructure by automating the deletion of unused resources completely.
 
 <p align="center">
-  <img src="/assets/images/terraformNochange.png" width="800">
+  <img src="/assets/images/terraformNochange.png" width="600">
   <br/>
   <span>                   </span>
   <br/>
-  <img src="/assets/images/terraformChange.png" width="800">
+  <img src="/assets/images/terraformChange.png" width="600">
 </p>
 
-## Is Amy Qualified for Next Level? 🤔
+## Is Amy Qualified for the Next Level? 🤔
 
 <p align="center">
-  <img src="/assets/images/bizCard.png" width="800">
+  <img src="/assets/images/bizCard.png" width="600">
   <br/> 
 </p>
 

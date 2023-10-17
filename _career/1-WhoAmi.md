@@ -41,11 +41,11 @@ I started my career as an industrial engineer on the manufacturing floor with th
 
 ## Start of PowerPoint 📊 and Excel 📈
 
-With the confidence that I can understand the manufacturing process, I moved to the quality engineering team, where I met many different people.  
+With the confidence that I could understand the manufacturing process, I moved to the quality engineering team, where I met many different people.  
 
 **Role 👩‍🔧:** Supplier Quality Engineer Co-Op <br/>
 **Responsibilities 🛠️:** Ensuring the quality of the product by investigating the root cause of the problem and implementing corrective actions. <br/>
-**Amy's Impact 🔥:** Reserved ~$400,000 in cost savings through the implementation of 7 different corrective actions. <br/>
+**Amy's Impact 🔥:** Saved ~$400,000 in cost savings through the implementation of 7 different corrective actions. <br/>
 **Take away 🎁:** Being able to use data to present the solution to the higher management. 
 
 
@@ -59,7 +59,7 @@ After a year of working in the appliance industry, I decided to switch to the fo
 
 **Role 👩‍🔧:** Project Engineer Intern<br/>
 **Responsibilities 🛠️:** Analyzing the current manufacturing process and providing solutions to improve the process. <br/>
-**Amy's Impact 🔥:** Analyzed production bottleneck issue and identified impacted areas in penuche processes; recommended solutions to increase the production by 9%, 40%, 220%. The company later invested $1.8M to adopt the solution alongside the site expansion. <br/>
+**Amy's Impact 🔥:** Analyzed production bottleneck issue and identified impacted areas in penuche processes; recommended solutions to increase the production by 9%, 40%, and 220%. The company later invested $1.8M to adopt the solution alongside the site expansion. <br/>
 **Take away 🎁:** Being able to use data to present the solution to the higher management.
 
 
@@ -69,7 +69,7 @@ After a year of working in the appliance industry, I decided to switch to the fo
 
 ## Start of my journey with Rolls-Royce 🛫
 
-Got selected for the Rolls-Royce International Program! (Unfortunately, the pandemic happened and was converted to a remote program 😢)
+Got selected for the Rolls-Royce International Program! (Unfortunately, the pandemic happened, and was converted to a remote program 😢)
 
 **Role 👩‍🔧:** Mechanical Engineer Intern<br/>
 **Responsibilities 🛠️:** Conduct a study for gear train design efficiency on different gear sizes for Trent 7000 <br/>
@@ -92,9 +92,9 @@ In 2021, I joined Rolls-Royce as a graduate development program engineer. I was 
 -----------------------------  First Rotation (EOM) --------------------------- <br/>
 
 **Role 👩‍🔧:** Project Manager Assistant<br/>
-**Responsibilities 🛠️:** Led and supported various process improvement projects involving software solution such as RRMS and supplier audit program  <br/>
+**Responsibilities 🛠️:** Led and supported various process improvement projects involving software solutions such as RRMS and supplier audit program  <br/>
 **Amy's Impact 🔥:** Presented the solution to utilize the existing internal website to add the data collection feature for the supplier audit program. The project is currently in the implementation phase. <br/>
-**Take away 🎁:** My first experience with working with software engineers and understanding the software development process. Seeing how the software can be used to solve the common but complex problem was fascinating. <br/>
+**Take away 🎁:** My first experience with working with software engineers and understanding the software development process. Seeing how the software can be used to solve a common but complex problem was fascinating. <br/>
 
 ---------------------------  Second Rotation (Helo) -------------------------- <br/>
 
@@ -113,7 +113,7 @@ In 2021, I joined Rolls-Royce as a graduate development program engineer. I was 
 
 ## Here I am! - with Software Factory 🎉
 
-I'm extremely lucky with the all 7 positions I had so far. I was able to learn and grow from each of them and finally found my passion. I never thought I would be a software engineer, but here I am! Click [here](https://she0305.github.io/career/2-Contribution/) to read more about my contribution with Software Factory.
+I'm extremely lucky with all 7 positions I had so far. I was able to learn and grow from each of them and finally found my passion. I never thought I would be a software engineer, but here I am! Click [here](https://she0305.github.io/career/2-Contribution/) to read more about my contribution with Software Factory.
 
 <p align="center">
   <img src="/assets/images/sf1.png" width="360">
